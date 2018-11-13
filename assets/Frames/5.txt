@@ -1,0 +1,6 @@
+What a Superuser can do;
+Mache Dich mit der Funktionsweise von sudo und chown vertraut.
+
+Nutze die Macht eines Superusers und setze dich als Besitzer des /SHADY-BUSINESS-Ordners, um Zugriff auf diesen zu erlangen.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob du der Besitzer von /SHADY-BUSINESS bist:

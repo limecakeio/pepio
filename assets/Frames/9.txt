@@ -1,0 +1,10 @@
+Ein neues Kapitel;
+Mache Dich mit der Funktionsweise von wget vertraut.
+
+Du hast dich auf eine karibische Insel abgesetzt und willst dort mit einem Schnitzelrestaurant wieder neu anfangen, diesmal aber ohne zwielichtige Geschäftspraktiken. Noch in Deutschland hast du dir wichtige Dokumente archiviert und online gestellt.
+
+Lade die Ressource unter: http://limecakecollective.com/sandbox/chaos.tar.xz
+
+...in dein HOME-Verzeichnis herunter.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob du die Dokumente heruntergeladen hast:

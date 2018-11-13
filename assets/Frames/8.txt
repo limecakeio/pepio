@@ -1,0 +1,8 @@
+ ;
+Frische dein Wissen zu rm ein wenig auf.
+
+Die Steuerfahndung ist dir auf der Spur und dir wird die Sache zu heiß. Du entscheidest dich, alle Dokumente, die dich mit zwielichtigen Geschäften in Verbindung bringen zu löschen.
+
+Lösche den Ordner /NOTHING-TO-SEE-HERE, zusammen mit seinem Inhalt.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob der Ordner gelöscht wurde:

@@ -1,0 +1,12 @@
+ ;
+Mache dich mit der Funktionsweise von gpg vertraut.
+
+Du hast eine verschlüsselte Datei, die mit dem eben gefundenen Passwort verschlüsselt wurde. Um die Datei zu lesen, musst du sie vorher entschlüsseln.
+
+Navigiere in den Ordner /schnitzel/chaos und betrachte die Datei “papagei.txt.gpg” mit Hilfe von nano.
+
+Entschlüssele die Datei mit dem Befehl [gpg -d papagei.txt.gpg] (ohne die Klammern).
+
+Der Inhalt der verschlüsselten Datei wird auf dem Bildschirm ausgegeben.
+;
+Trage hier den Inhalt der verschlüsselten Datei ein:

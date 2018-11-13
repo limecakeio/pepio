@@ -1,0 +1,8 @@
+Move on...there is nothing to see here;
+Frische dein Wissen zu mv ein wenig auf.
+
+Das Finanzamt hat Unstimmigkeiten in deiner Steuererklärung festgestellt und du willst deine Spuren zu deinen zwielichtigen Geschäften verwischen.
+
+Ändere den Namen des /SHADY-BUSINESS-Ordners in “NOTHING-TO-SEE-HERE” um.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob der Ordner /SHADY-BUSINESS nun /NOTHING-TO-SEE-HERE heißt:

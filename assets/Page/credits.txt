@@ -1,0 +1,13 @@
+Credits#
+Schnitzeljagd and pepio were created by:
+    Eugen Krizki
+    Richard Vladimirskij
+
+Under the supervision of:
+    Prof. Dr. Wolfgang Schramm
+
+At the University of Applied Sciences Mannheim in the winter semester 2018/2019.
+
+Project can be found at: https://github.com/limecakeio/pepio
+#
+Press <Enter> to resume the game:

@@ -1,0 +1,22 @@
+{
+  "name": "tut",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./schnitzel.js"
+  },
+  "dependencies": {
+    "ascii-art": "^1.4.4",
+    "boxen": "^2.0.0",
+    "canvas": "^2.0.1",
+    "clear": "^0.1.0",
+    "cli-progress": "^2.1.0",
+    "crypto": "^1.0.1",
+    "ncp": "^2.0.0",
+    "prompt-sync": "^4.1.6",
+    "rimraf": "^2.6.2",
+    "shelljs": "^0.8.3",
+    "sleep": "^5.2.3",
+    "uuid": "^3.3.2"
+  }
+}

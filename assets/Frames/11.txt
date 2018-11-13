@@ -1,0 +1,10 @@
+ ;
+Mache Dich mit der Funktionsweise von find, wc und Pipe (”|”) vertraut.
+
+Du willst dir erstmal einen Überblick über deine wichtigsten Dokumente verschaffen, die alle als .txt-Dateien in /schnitzel/chaos gespeichert sind.
+
+Finde alle .txt-Dateien im /chaos-Ordner (und den Unterordnern).
+
+Erstelle eine Pipeline, die .txt-Dateien sucht und anschließend die Zeilen zählt.
+;
+Trage hier ein, wieviele .txt-Dateien im Maze-Ordner vorhanden sind:

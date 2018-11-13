@@ -1,0 +1,8 @@
+Unter den Teppich kehren;
+Mache Dich mit der Funktionsweise von rm vertraut.
+
+Du bist dir im Klaren geworden, dass man eine Speisekarte vielleicht doch nicht als .txt-Datei verwaltet und hast diese bereits in ein passendes Format übertragen.
+
+Lösche die Datei “cost-of-a-schnitzel.txt” aus dem /schnitzel-Verzeichnis.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob cost-of-a-schnitzel.txt gelöscht wurde:

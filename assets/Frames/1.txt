@@ -1,0 +1,10 @@
+Life, Death & Taxes;
+Mache Dich mit der Funktionsweise von mkdir und cp vertraut.
+
+Der Steuerberater Deines Restaurants braucht ein paar Unterlagen von Dir.
+
+Erstelle für Ihn einen Ordner „tax-man“ in Deinem HOME-Verzeichnis.
+
+Kopiere die Datei „cost-of-a-schnitzel.txt“ aus dem /schnitzel-Verzeichnis in das “tax-man” Verzeichnis.
+;
+Drücke die <Enter>-Taste um zu überprüfen, dass die Datei kopiert wurde:

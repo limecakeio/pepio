@@ -1,6 +1,12 @@
-# IDE -------->
-.idea/
-.iml
+# IDE ------->
+*.idea/
+*.iml
 
 # Node ------->
 package-lock.json
+/node_modules
+
+# Others ----->
+DEPENDENCIES.txt
+TODO.txt
+/docs

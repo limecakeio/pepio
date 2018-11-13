@@ -1,0 +1,10 @@
+Der Preis eines Schnitzels;
+Mache Dich mit der Funktionsweise von ls, cd und nano vertraut.
+
+Du führst ein Schnitzelrestaurant und hast leider vergessen, was Du für Deine Gerichte verlangst.
+
+Zum Glück hast Du die Speisekarte in der Datei „cost-of-a-schnitzel.txt“ im „/HOME/schnitzel“-Ordner gespeichert.
+
+Schaue in der Datei nach dem Preis für ein Wiener Schnitzel.
+;
+Trage hier ein, wieviel ein Wiener Schnitzel kostet:

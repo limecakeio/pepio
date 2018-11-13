@@ -1,0 +1,9 @@
+Wer bin ich?;
+Mache Dich mit der Funktionsweise von whoami vertraut und vertiefe am besten nochmal dein Wissen zu ls.
+
+Du verwaltest Dateien zu deinen zwielichtigen Geschäften im Ordner /SHADY-BUSINESS im /schnitzel-Verzeichnis.
+
+Finde heraus, als welcher Benutzer du im System angemeldet bist.
+Finde heraus, welcher Benutzer der Besitzer des /SHADY-BUSINESS-Ordners ist.
+;
+Trage hier ein, wer der Besitzer von /SHADY-BUSINESS ist:

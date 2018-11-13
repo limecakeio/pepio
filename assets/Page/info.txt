@@ -1,0 +1,14 @@
+Wilkommen zur Schnitzeljagd für EI!#
+Diese Übung des Kurses Einführung in die Informatik soll eine Einführung in das Arbeiten in der Shell und eine Übersicht über Befehle in Linux geben. Die Übung findet in der Form einer Schnitzeljagd statt, bei der euch Aufgaben gestellt werden, die ihr nach und nach erfüllen müsst, um zur nächsten Aufgabe zu gelangen. Die Schnitzeljagd findet auf einem Linux-System ohne Benutzeroberfläche statt, mit dem ihr einzig über die Shell interagieren könnt. Ihr sollt das die Schnitzeljagd durchspielen und anschließend uns nochmal demonstrieren, also macht euch am Besten Notizen.
+
+Das Schnitzeljagd-Programm wird euch eine Aufgabe stellen
+
+Mit „q“ könnt ihr die Schnitzeljagd jederzeit verlassen, um in die Shell zu gelangen
+
+In der Shell sollt ihr die Befehle benutzen, die euch in den Aufgaben vorgestellt werden, um diese zu lösen
+
+Kehrt anschließend wieder zur Schnitzeljagd zurück indem ihr einfach „schnitzeljagd“ in die Shell tippt, um eure Lösung zu prüfen und die nächste Aufgabe gestellt zu bekommen
+
+Mit „r“ könnt ihr die Schnitzeljagd komplett neustarten, falls mal was schief geht
+#
+Drücke die <Enter>-Taste um fortzufahren:

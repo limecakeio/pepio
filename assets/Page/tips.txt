@@ -1,0 +1,11 @@
+A Few Tips to Make Life a Little Easier...#
+-> man [Befehl]: öffnet die Anleitung des Befehls in der Shell
+-> CTRL+R: um durch vorherige Eingaben in der Konsole zu suchen
+-> KEYUP: um durch vorherige Eingaben in der Konsole zu iterieren
+-> TAB: als Autocomplete während der Eingabe eines Pfades
+-> DOUBLE TAB: um die Inhalte des aktuellen Pfads anzuzeigen
+-> ~/: Shortcut bzw. Alias für das Home-Verzeichnis
+-> sudo macht dich zum Superuser
+-> mv: dient nicht nur dazu Dateien/Ordner zu verschieben, sondern auch zum Umbenennen
+#
+Drücke die <Enter>-Taste um zurück zum Spiel zu gelangen:

@@ -1,0 +1,8 @@
+ ;
+Mache Dich mit der Funktionsweise von tar vertraut.
+
+Die Dokumente wurden in einem Archiv gespeichert, um sie kompakt und gebündelt zu verwalten.
+
+Entpacke das heruntergeladene Archiv in den Ordner /schnitzel.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob die Dokumente entpackt wurden:

@@ -1,0 +1,8 @@
+ ;
+Mache Dich mit der Funktionsweise von chmod vertraut.
+
+Deine Geschäftspartner brauchen Zugang zu den zwielichtigen Dokumenten.
+
+Ändere die Zugriffsrechte des /NOTHING-TO-SEE-HERE-Ordners so um, dass jeder Benutzer darin Lesen, Schreiben und Ausführen kann.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob die Rechte des Ordners richtig gesetzt wurden:

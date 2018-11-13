@@ -1,0 +1,12 @@
+ ;
+Mache Dich mit der Funktionsweise von grep und der Umleitung von Ausgaben (”>”) vertraut.
+
+Du sucht nach einem wichtigem Passwort, weißt aber nicht mehr wo es steht. Du weißt nur, dass es irgendwo in einer Datei in deinen Dokumenten gespeichert ist und sowohl mit einem “#” anfängt, als auch aufhört.
+
+Navigiere in den Ordner /schnitzel/chaos.
+
+Nutze den Befehl [ grep -r -oh -P “#.+#” ] (ohne die Klammern) um dein Passwort zu finden.
+
+Leite anschließend die Ausgabe des grep-Befehls so um, dass das Passwort in einer Datei “key.txt” im /schitzel-Ordner gespeichert ist.
+;
+Drücke die <Enter>-Taste um zu überprüfen, ob das Passwort richtig in der Datei “key.txt” gespeichert wurde:
