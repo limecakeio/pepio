@@ -20,11 +20,14 @@ Clone this repository, change into the directory and run make:
 ```
 clone https://github.com/limecakeio/pepio pepio
 cd pepio
+npm install
 ```
 
 ## Starting the game
 Currently pepio has a "Schnitzeljagd" game preconfigured, this can be launched by...
 ```
+npm start
+or
 node schnitzel.js
 ```
 ... inside the pepio root folder
