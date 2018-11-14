@@ -1,7 +1,5 @@
- #CONGRATULATIONS!
-
+CONGRATULATIONS!#
 Hiermit hast Du die Schnitzeljagd Übung mit vollen Punkten bestanden!
 
-Winner winner, chicken dinner!
-#
+Winner winner, chicken dinner!#
 Drücke <Enter> um das Programm zu beenden oder gebe R ein um das Programm zurückzusetzen:

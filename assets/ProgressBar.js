@@ -1,11 +1,11 @@
 const _cliProgress = require('cli-progress');
 const bar = new _cliProgress.Bar({
     barCompleteChar: 'X',
-    format: 'Ihr Fortschritt: [{bar}] | {percentage}% | {value}/{total} Aufgaben bestanden',
+    format: 'Ihr Fortschritt: [{bar}] | {percentage}% | {value}/{total} Aufgaben',
     barIncompleteChar: '-',
     fps: 5,
     stream: process.stdout,
-    barsize: 80,
+    barsize: 40,
     position: 'center'
 });
 

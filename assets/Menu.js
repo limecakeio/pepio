@@ -46,7 +46,7 @@ class Menu {
 
     print() {
         let menuEntries = this.functions.map((entry) => entry.title);
-        console.log(ascii.style(" " + MENU_TITLE + menuEntries.join('         ') + "          ", 'white+blue_bg+bold'), ascii.style('\n', 'off'));
+        console.log(ascii.style(" " + MENU_TITLE + menuEntries.join('   ') + "    ", 'white+blue_bg+bold'), ascii.style('\n', 'off'));
     }
 
     parse(input) {
