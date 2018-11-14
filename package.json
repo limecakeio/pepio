@@ -6,7 +6,7 @@
     "start": "node ./schnitzel.js"
   },
   "dependencies": {
-    "ascii-art": "^1.4.4",
+    "ascii-art": "^1.5.0",
     "boxen": "^2.0.0",
     "canvas": "^2.0.1",
     "clear": "^0.1.0",
