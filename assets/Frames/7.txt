@@ -1,4 +1,5 @@
- ;
+Read, Write and Execute
+;
 Mache Dich mit der Funktionsweise von chmod vertraut.
 
 Deine Geschäftspartner brauchen Zugang zu den zwielichtigen Dokumenten.

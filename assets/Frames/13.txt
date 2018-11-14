@@ -1,4 +1,5 @@
- ;
+Get the Parrot
+;
 Mache dich mit der Funktionsweise von gpg vertraut.
 
 Du hast eine verschlüsselte Datei, die mit dem eben gefundenen Passwort verschlüsselt wurde. Um die Datei zu lesen, musst du sie vorher entschlüsseln.
