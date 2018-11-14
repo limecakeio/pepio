@@ -1,6 +1,4 @@
-Archive
-;
-Mache Dich mit der Funktionsweise von tar vertraut.
+Archive;Mache Dich mit der Funktionsweise von tar vertraut.
 
 Die Dokumente wurden in einem Archiv gespeichert, um sie kompakt und gebündelt zu verwalten.
 

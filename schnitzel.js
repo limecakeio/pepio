@@ -110,6 +110,7 @@ class Schnitzel {
         this.header.print();
         this.menu.print();
         pb.print();
+        console.log(''); //Linebreak
         this.frame.print();
     }
 
