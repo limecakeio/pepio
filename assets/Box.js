@@ -3,7 +3,7 @@ const boxen = require('boxen');
 /**
  * CONSTANTS
  * */
-const DEFAULT_MARGIN = 2;
+const DEFAULT_MARGIN = 0;
 
 class Box {
     constructor(message, options={}) {

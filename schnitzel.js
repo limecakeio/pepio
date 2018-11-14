@@ -31,7 +31,7 @@ const SYSTEM_ROOT = os.homedir();
 const HEADER_IMAGE = "./art/chkn.png";
 const HEADER_TITLE = "Schnitzeljagd";
 const WIN_IMAGE = "./art/piggy.png";
-const WIN_TITLE ="DU HAST GEWONNEN!";
+const WIN_TITLE ="GEWONNEN!";
 
 class Schnitzel {
     constructor() {
@@ -239,10 +239,10 @@ new Schnitzel().then((schnitzel) => {
         }
     }
     if(schnitzel.reset) {
-        let box = new Box("Das Spiel wurde in den Grundzustand zurückgesetzt. Spiele gerne nochmal von Anfang an!");
+        let box = new Box("Das Spiel wurde in den Grundzustand zurückgesetzt.\nSpiele gerne nochmal von Anfang an!");
         box.print();
     } else if (schnitzel.quit) {
-        let box = new Box("Spiel verlassen. Viel Erfolg und komme jederzeit wieder um an der letzten Stelle fortzufahren!");
+        let box = new Box("Spiel verlassen.\nViel Erfolg in der Lösung der Aufgabe.\nWenn Du wieder kommst, geht es an der letzten Stelle weiter!");
         box.print();
     } else {//The game has been won
         schnitzel.loadWinPage('winner');

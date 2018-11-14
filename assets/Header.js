@@ -5,7 +5,7 @@
  * */
 
 let ascii = require('ascii-art');
-const COVER_WIDTH = 30;
+const COVER_WIDTH = 20;
 const COVER_PATTERN = 'variant1';
 const TITLE_FONT = 'Doom';
 const TITLE_COLOUR = 'bright_magenta';
