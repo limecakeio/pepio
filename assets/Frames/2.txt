@@ -1,8 +1,7 @@
-Geld stinkt nicht;
-Mache Dich mit der Funktionsweise von mv vertraut.
+Geld stinkt nicht;Mache Dich mit der Funktionsweise von mv vertraut.
 
 Dein Steuerberater braucht noch weitere Unterlagen, die alle im Ordner /schnitzel/laundry liegen.
 
-Bewege den Ordner /laundry, samt seines Inhaltes, in das „tax-man“-Verzeichnis in HOME.
+Bewege den Ordner /laundry, samt seines Inhaltes, in das "tax-man"-Verzeichnis in HOME.
 ;
 Drücke die <Enter>-Taste um zu überprüfen, ob der Ordner laundry von dem schnitzel Verzeichnis in den tax-man Ordner verschoben wurde:

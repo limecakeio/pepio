@@ -1,5 +1,4 @@
-Wer bin ich?;
-Mache Dich mit der Funktionsweise von whoami vertraut und vertiefe am besten nochmal dein Wissen zu ls.
+Wer bin ich?;Mache Dich mit der Funktionsweise von whoami vertraut und vertiefe am besten nochmal dein Wissen zu ls.
 
 Du verwaltest Dateien zu deinen zwielichtigen Geschäften im Ordner /SHADY-BUSINESS im /schnitzel-Verzeichnis.
 
